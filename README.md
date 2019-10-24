@@ -1,4 +1,4 @@
-
+[![Build Status](https://pmtools.visualstudio.com/LabsProject/_apis/build/status/lnetrebskii.ContosoAir?branchName=master)](https://pmtools.visualstudio.com/LabsProject/_build/latest?definitionId=3&branchName=master)
 
 
 # Microsoft.Github CI Demo
